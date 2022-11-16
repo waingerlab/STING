@@ -1,6 +1,6 @@
 //To analyze all images in timecourse folder 
 
-dir="E:/time_course-NGN2/CM-NGN2-iTDP-D0-051121-TimeCourse/D10/sting/Data/"; 
+dir="E:/time_course-NGN2/example/D10/sting/Data/"; 
 
 sub=getFileList(dir);
 //Array.print(sub);
